@@ -2,7 +2,7 @@
 #### I'm a Front End Developer.
 I really enjoy learning languages and frameworks like React.
 
-Skills: REACT / JS / HTML / CSS
+Skills: HTML / CSS / JS / React / Redux
 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: razieh.boroon@gmail.com 
