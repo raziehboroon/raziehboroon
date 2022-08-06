@@ -2,7 +2,7 @@
 #### I'm a Front End Developer.
 I really enjoy learning languages and frameworks like React.
 
-Skills: HTML / CSS / Bootstrap / JS / React / Redux / Git / MUI
+Skills: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) / CSS / Bootstrap / JS / React / Redux / Git / MUI
 
 - 📫 How to reach me: razieh.boroon@gmail.com 
 
