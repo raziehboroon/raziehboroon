@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Razieh
 #### I'm a Front End Developer.
-I really enjoy learning languages and frameworks like React.
+I really enjoy learning languages and frameworks.
+
+🌱 I’m currently learning TypeScript.
 
 Skills:
 
