@@ -2,7 +2,7 @@
 #### I'm a Front End Developer.
 I really enjoy learning languages and frameworks.
 
-🌱 I’m currently learning Typescript.
+🌱 I’m currently learning Next.js.
 
 #### Skills:
 
