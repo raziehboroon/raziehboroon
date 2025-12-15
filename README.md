@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Razieh
 #### I'm a Front End Developer.
-I really enjoy learning languages and frameworks.
-
-🌱 I’m currently learning Next.js.
+🌱 I really enjoy learning languages and frameworks.
 
 #### Skills:
 
